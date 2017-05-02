@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/team_A"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="10dp"
+        android:text="Team A"
+        android:textSize="24sp"
+        />
+
+    <TextView
+        android:id="@+id/A_score_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textAlignment="center"
+        android:layout_below="@+id/team_A"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="15dp"
+        android:textSize="60sp"/>
+
+    <Button
+        android:id="@+id/A_three_button"
+        android:text="+3 POINTS"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/A_score_text"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:paddingLeft="30dp"
+        android:textSize="16sp"
+        android:paddingRight="30dp"
+        android:onClick="A_plus_three"
+        />
+
+    <Button
+        android:id="@+id/A_two_button"
+        android:text="+2 POINTS"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/A_three_button"
+        android:paddingLeft="30dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:paddingRight="30dp"
+        android:textSize="16sp"
+        android:onClick="A_plus_two"
+
+
+        />
+
+
+    <Button
+        android:id="@+id/A_free_throw"
+        android:text="FREE THROW"
+        android:textAlignment="center"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/A_two_button"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:paddingRight="20dp"
+        android:textSize="16sp"
+        android:onClick="A_free_throw"
+
+
+        />
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="1dp"
+        android:layout_height="450dp"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/darker_gray"/>
+
+
+    <TextView
+        android:id="@+id/team_B"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/team_A"
+        android:layout_marginLeft="115dp"
+        android:text="Team B"
+        android:textSize="24sp"
+        android:layout_marginTop="10dp"
+        />
+
+   <TextView
+       android:id="@+id/B_score_text"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="15dp"
+       android:text="0"
+       android:textSize="60sp"
+       android:layout_below="@id/team_B"
+       android:layout_marginLeft="240dp"
+
+        />
+
+    <Button
+        android:id="@+id/B_three_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+3 POINTS"
+        android:paddingLeft="30dp"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:paddingRight="30dp"
+        android:layout_below="@id/B_score_text"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="40dp"
+
+        android:onClick="B_plus_three"
+        />
+
+    <Button
+        android:id="@+id/B_two_button"
+        android:text="+2 POINTS"
+        android:textSize="16sp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/B_three_button"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginRight="10dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:onClick="B_plus_two"
+
+
+        />
+    <Button
+        android:id="@+id/B_free_throw"
+        android:text="FREE THROW"
+        android:textAlignment="center"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/B_two_button"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="205dp"
+        android:paddingRight="20dp"
+        android:textSize="16sp"
+        android:onClick="B_free_throw"
+
+
+        />
+
+    <Button
+        android:id="@+id/reset"
+        android:text="RESET"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/B_free_throw"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:onClick="reset"
+        />
+
+
+</RelativeLayout>

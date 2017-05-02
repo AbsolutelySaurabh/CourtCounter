@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/7f81057f3e27cbd860dc82e76f544fb54ca3fa7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_a48517c820ca373de5f4831a8fcad4984ecd7211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/bf9aab7a530d3e099fb114d147a2c8e467009ddb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_1ef3de1edb1b069834e0630fb343892765f5cf30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/e83cfca9155254a91899ab7022192861d413500d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_074000114f4e4bd77206af478a33442ddbd7449d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/9e8472b10990850c6fb0dc58ec7aa5eed17249fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_a863b69aeaa17bd288a548d5f420564cf42c9315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/dc0f6d4f1241748449f4a34a6d876126e79ffa77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_4f5a2fd9bec8be1b210e67de74198d1bf32bb580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/7b6ad8ae2c9505a2a5c56afce4c6384ca7ee81b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_58dd8f8e01e40eb963766e1ef5b417ab2fadef86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/a4ddf1c574c9718be18b05dbda7a187699d3678e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_d5c95f55f5c64b3b36c99d85b521efe198214887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/f4a84a50e9f4ca607a7f53dd1bcc4ada10f6a72c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_cd80a5c50bc4355bd47861ed2179a58896e4a231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/.android/build-cache/9f669e33e22449f7e2a945b1a5f1255d1aad3645/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/classes_f7134c33511e9fda288c70d9021ab35f174e8fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/absolutelysaurabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/absolutelysaurabh/Desktop/AndroidStudioProjects/CourtCounter/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_32561d2ca7d72ade7864b51b30b8354dd30d4c50.jar" />
+    </item>
+
+</items>
